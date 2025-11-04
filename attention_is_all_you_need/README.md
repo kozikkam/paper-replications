@@ -1,0 +1,1 @@
+A minimal implementation of the encoder transformer block from "Attention Is All You Need" by Vaswani et al. https://arxiv.org/pdf/1706.03762
